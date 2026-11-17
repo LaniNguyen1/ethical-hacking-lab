@@ -20,13 +20,21 @@ This portfolio documents hands-on cybersecurity labs I completed for **CNT4930: 
 ## Repository Structure
 
 /1_reconnaissance         → Reconnaissance lab report
+
 /2_enumeration            → Enumeration lab report
+
 /3_vulnerability_scanning → Vulnerability scanning lab report
+
 /4_post_exploitation      → Post-exploitation lab report
+
 /5_exfiltration           → Exfiltration lab report
+
 /6_password_cracking      → Password-cracking lab report
+
 /7_backdoor               → Backdoor lab report
+
 /8_cleanup                → Cleanup lab report
+
 README.md                 → Project overview and navigation
 
 ---
@@ -39,15 +47,15 @@ The exercises were completed in **Cyber Basics (2026.7)**, a course-provided vir
 
 ## Tools Used
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square)
-![Netstat](https://img.shields.io/badge/Netstat-555555?style=flat-square)
-![Nikto](https://img.shields.io/badge/Nikto-555555?style=flat-square)
-![DirBuster](https://img.shields.io/badge/DirBuster-555555?style=flat-square)
-![Metasploit Framework](https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333333?style=flat-square)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square)
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square)
+- ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+- ![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square)
+- ![Netstat](https://img.shields.io/badge/Netstat-555555?style=flat-square)
+- ![Nikto](https://img.shields.io/badge/Nikto-555555?style=flat-square)
+- ![DirBuster](https://img.shields.io/badge/DirBuster-555555?style=flat-square)
+- ![Metasploit Framework](https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square)
+- ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333333?style=flat-square)
+- ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square)
 
 ---
 
