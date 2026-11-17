@@ -6,14 +6,14 @@ This portfolio documents hands-on cybersecurity labs I completed for **CNT4930: 
 
 ## Lab Sequence
 
-1. **Reconnaissance** — Identified the target network and discovered active hosts.
-2. **Enumeration** — Examined selected services and gathered information about the target.
-3. **Vulnerability Scanning** — Scanned for potential vulnerabilities and reviewed the results.
-4. **Post-Exploitation** — Practiced assigned post-exploitation tasks in the lab environment.
-5. **Exfiltration** — Completed a controlled file-transfer exercise.
-6. **Password Cracking** — Practiced password-hash analysis and account-access verification.
-7. **Backdoor** — Completed the assigned backdoor exercise and verified its behavior.
-8. **Cleanup** — Removed temporary access and restored the original SSH configuration.
+- **Reconnaissance** — Identified the target network and discovered active hosts.
+- **Enumeration** — Examined selected services and gathered information about the target.
+- **Vulnerability Scanning** — Scanned for potential vulnerabilities and reviewed the results.
+- **Post-Exploitation** — Practiced assigned post-exploitation tasks in the lab environment.
+- **Exfiltration** — Completed a controlled file-transfer exercise.
+- **Password Cracking** — Practiced password-hash analysis and account-access verification.
+- **Backdoor** — Completed the assigned backdoor exercise and verified its behavior.
+- **Cleanup** — Removed temporary access and restored the original SSH configuration.
 
 ---
 
@@ -49,22 +49,26 @@ The exercises were completed in **Cyber Basics (2026.7)**, a course-provided vir
 
 - ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square)
 - ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
-- ![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square)
-- ![Netstat](https://img.shields.io/badge/Netstat-555555?style=flat-square)
-- ![Nikto](https://img.shields.io/badge/Nikto-555555?style=flat-square)
-- ![DirBuster](https://img.shields.io/badge/DirBuster-555555?style=flat-square)
-- ![Metasploit Framework](https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square)
-- ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333333?style=flat-square)
 - ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square)
+- ![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square)
+- ![CVE Database](https://img.shields.io/badge/CVE_Database-555555?style=flat-square)
+- ![DirBuster](https://img.shields.io/badge/DirBuster-555555?style=flat-square)
+- ![Nikto](https://img.shields.io/badge/Nikto-555555?style=flat-square)
+- ![Metasploit Framework](https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square)
+- ![Python 2](https://img.shields.io/badge/Python_2-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333333?style=flat-square)
+- ![Netstat](https://img.shields.io/badge/Netstat-555555?style=flat-square)
 
 ---
 
 ## Skills Demonstrated
 
 - Network and host discovery
-- Service version enumeration
-- Vulnerability scanning and review
-- Account and access review
+- Service version and web enumeration
+- Vulnerability scanning and CVE research
+- SSH configuration and service management
+- Password-hash analysis and recovery
+- Controlled file transfer and listener verification
 - Cleanup and configuration restoration
 
 ---
